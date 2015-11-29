@@ -11,7 +11,7 @@ Source0:	http://dl.sourceforge.net/xpylib/%{module}-%{version}.zip
 URL:		http://sourceforge.net/projects/xpylib/
 BuildRequires:	python-devel >= 1:2.5
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.174
+BuildRequires:	rpmbuild(macros) >= 1.710
 %pyrequires_eq	python-modules
 BuildRequires:	unzip
 BuildArch:	noarch
